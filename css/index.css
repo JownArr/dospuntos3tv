@@ -1,6 +1,6 @@
 @font-face{
     font-family:dancing_script;
-    src: url("font/dancing_script/dancing_script.ttf");
+    src: url("/font/dancing_script/dancing_script.ttf");
 }
 body{
     background:black;
