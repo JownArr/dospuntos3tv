@@ -1,0 +1,138 @@
+@font-face{
+    font-family:dancing_script;
+    src: url("/tele/font/dancing_script/dancing_script.ttf");
+}
+body{
+    background:black;
+}
+#tit{
+    color:darkmagenta;
+    font-family:dancing_script;
+    font-size: 60px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#us{
+    height: 60px;
+}
+#menus{
+    color: aliceblue;
+    font-family: cursive;
+    margin-bottom: 10px;
+}
+.canal{
+    width: 100%;
+    height: 100%;
+}
+/*#imgs{
+    margin-top: 20px;
+}*/
+#canalillos{
+    width:80px;
+    height: 80px;
+    border-radius:20px
+}
+#tnt{
+    display:none;
+}
+#warner{
+    display:none;
+}
+#history{
+    display:none;
+}
+#animalplanet{
+    display:none;
+}
+#amc{
+    display:none;
+}
+#boomerang{
+    display:none;
+}
+#cartoonnetwork{
+    display:none;
+}
+#cinecanal{
+    display:none;
+}
+#cinemax{
+    display:none;
+}
+#discoverychannel{
+    display:none;
+}
+#disneychannel{
+    display:none;
+}
+#disneyxd{
+    display:none;
+}
+#fox{
+    display:none;
+}
+#foxlife{
+    display:none;
+}
+#foxaction{
+    display:none;
+}
+#foxmovies{
+    display:none;
+}
+#foxfamily{
+    display:none;
+}
+#fx{
+    display:none;
+}
+#hbo{
+    display:none;
+}
+#hbo2{
+    display:none;
+}
+#hbofamily{
+    display:none;
+}
+#hboplus{
+    display:none;
+}
+#isat{
+    display:none;
+}
+#mtv{
+    display:none;
+}
+#mtvhits{
+    display:none;
+}
+#nick{
+    display:none;
+}
+#nickmusic{
+    display:none;
+}
+#paramount{
+    display:none;
+}
+#space{
+    display:none;
+}
+#studio{
+    display:none;
+}
+#southpark{
+    display:none;
+}
+#tooncast{
+    display:none;
+}
+#universal{
+    display:none;
+}
+#vh1{
+    display:none;
+}
+
